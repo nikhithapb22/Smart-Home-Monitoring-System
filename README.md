@@ -16,6 +16,8 @@ This project simulates a basic smart home system using:
 - Use Wokwi.com simulator
 - Upload the code
 - Simulate sensor inputs
+- ![Circuit](wiring_diagram.png)
+
 
 ## Author
 Nikhitha PB
